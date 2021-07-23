@@ -6,7 +6,7 @@
 
 I am a geographical engineer ending my master in informatic engineering at University of Santiago. I love to travel, take [photos](https://www.flickr.com/photos/pedrinnnnn) and play video games.
 
-Currently working at geomatic engineering at CITIAPS-USACH, IT laboratory focused on social solutions. I like to work with databases, data analisys and data science (and geo-version of those).
+Currently working as geomatic engineering at CITIAPS-USACH, IT laboratory focused on social solutions. I like to work with databases, data analisys and data science (and geo-version of those).
   
 
 **Talking about Personal Stuffs:**
