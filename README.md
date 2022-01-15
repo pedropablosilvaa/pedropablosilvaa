@@ -6,7 +6,7 @@
 
 I am a geographical engineer ending my master in informatic engineering at University of Santiago. I love to travel, take [photos](https://www.flickr.com/photos/pedrinnnnn) and play video games.
 
-Currently working as data engineering at Entel Ocean, IT digital unit of National Telecommunications Enterprise (ENTEL). I like to work with databases, data analysis and data science (and geo-version of those).
+Currently working as data engineering at Entel Ocean, IT digital unit of National Telecommunications Enterprise (ENTEL).Using TELCO data we characterize mobility in the cities of Chile, to see petterns in territory and get business insights and support local governments. I like to work with databases, data analysis and data science (and geo-version of those).
   
 
 **Talking about Personal Stuffs:**
@@ -14,7 +14,7 @@ Currently working as data engineering at Entel Ocean, IT digital unit of Nationa
 -  I’m currently working in Entel Ocean as data engineer.
 -  I’m currently learning Apache Airflow. 
 -  I’m interested in ecological research.
--  My BSc thesis was focused in ecological connectivity analysis, using Satellite imagery, PostGIS for processing data and PgRouting for rounting algorithms. 
+-  My BSc thesis was focused in ecological connectivity analysis, using Satellite imagery, PostGIS for processing data and PgRouting to apply rounting algorithms. 
 -  My MEng thesis is focused in simulation and automatization of socioecological risk assessment upon Harmful Algal Bloom using PostGIS.    
 -  Contact: pedropablosilvaa@gmail.com.
 
