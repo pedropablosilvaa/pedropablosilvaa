@@ -11,7 +11,7 @@ I am currently working as a data engineer at Entel Ocean, the IT digital unit of
 **In terms of personal interests:**
 
 -  I am currently working as a data engineer at Entel Ocean. 
--  I am currently learning Quarkus.
+-  I am currently learning FastAPI.
 -  I am interested in ecological research.
 -  My BSc thesis focused on ecological connectivity analysis using satellite imagery, PostGIS for data processing, and PgRouting for routing algorithms.  
 -  My MEng thesis focused on simulation and automation of socioecological risk assessment for Harmful Algal Bloom using PostGIS.     
