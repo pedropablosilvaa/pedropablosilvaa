@@ -6,12 +6,12 @@
 
 I am a geographical engineer and master in computer science at the University of Santiago. I love to travel, take photos (which you can see on my Flickr page at https://www.flickr.com/photos/pedrinnnnn), and play video games.
 
-I am currently working as a data engineer at Entel Ocean, the IT digital unit of the National Telecommunications Enterprise (ENTEL). Using TELCO data, we analyze mobility patterns in the cities of Chile to gain business insights and support local governments. I enjoy working with databases, data analysis, and data science (especially the geographic versions of these fields). 
+I am currently working as a data team lead in MT2, data science for real state. I enjoy working with databases, data analysis, and data science (especially the geographic versions of these fields). 
 
 **In terms of personal interests:**
 
--  I am currently working as a data engineer at Entel Ocean. 
--  I am currently learning FastAPI.
+-  I am currently working as data team lead in MT2. 
+-  I am currently learning React.
 -  I am interested in ecological research.
 -  My BSc thesis focused on ecological connectivity analysis using satellite imagery, PostGIS for data processing, and PgRouting for routing algorithms.  
 -  My MEng thesis focused on simulation and automation of socioecological risk assessment for Harmful Algal Bloom using PostGIS.     
