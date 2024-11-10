@@ -10,7 +10,6 @@ I enjoy working with databases, data analysis, and data science (especially the 
 
 **In terms of personal interests:**
 
--  I am currently working as data team lead in MT2. 
 -  I am currently learning React.
 -  I am interested in ecological research.
 -  My BSc thesis focused on ecological connectivity analysis using satellite imagery, PostGIS for data processing, and PgRouting for routing algorithms.  
