@@ -6,7 +6,7 @@
 
 I am a geographical engineer and master in computer science at the University of Santiago. I love to travel, take photos (which you can see on my Flickr page at https://www.flickr.com/photos/pedrinnnnn), and play video games.
 
-I am currently working as a data team lead in MT2, data science for real state. I enjoy working with databases, data analysis, and data science (especially the geographic versions of these fields). 
+I enjoy working with databases, data analysis, and data science (especially the geographic versions of these fields). 
 
 **In terms of personal interests:**
 
